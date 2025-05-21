@@ -1,0 +1,28 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f0f4f8;
+  color: #1e3a8a;
+  margin: 0;
+  padding: 1rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+th {
+  background-color: #dbeafe;
+}
+button {
+  background-color: #fb923c;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  cursor: pointer;
+}
